@@ -89,7 +89,7 @@ body {
 .outros-produtos {
 	height: 90px;
 	font-size: 20px;
-	/* text-align: center; */
+	text-align: right;
 	line-height: 90px;
 }
 
